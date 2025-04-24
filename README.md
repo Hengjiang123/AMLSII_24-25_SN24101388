@@ -7,7 +7,7 @@ To run the project:
 
 1. CPU:
 Set the environment as description in the folder env/requirements.txt
-Prepare the dataset (it shoud be with the code in github repo) and run main.py.
+Prepare the dataset (You need to use the link below and download the dataset to make the path: Datasets/train/...   and   Datasets/test/... ) and run main.py. 
 
 2. GPU in Kaggle
 Switch the file path to Kaggle(at top of the main.py, evaluate.py and train.py)
